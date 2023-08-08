@@ -43,7 +43,7 @@ Here's a glimpse of the kind of project information included in this portfolio:
 ## Installation
 
 1. Clone this repository to your local machine using:
-git clone https://github.com/your-username/international-project-portfolio.git
+git clone https://github.com/ElkhateebNaser/project_management_team_workload
 
 2. Navigate to the repository directory:
 cd international-project-portfolio
